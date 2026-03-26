@@ -92,14 +92,14 @@
 กำลังพัฒนาตัวเองไปสู่การเป็น **Software Engineer / Full-Stack Developer / Embedded & IoT Developer** พร้อมเปิดรับเครื่องมือใหม่ๆ และมองหาโอกาสทำงานที่ได้ใช้ทั้ง "การคิดเชิงระบบ" และ "การลงมือทำจริง"
 
 ---
-
 ### 📊 สถิติบน GitHub (GitHub Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Porlager&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Porlager&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Porlager&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porlager&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Porlager&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
