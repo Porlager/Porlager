@@ -94,9 +94,11 @@
 ---
 ### 📊 สถิติบน GitHub (GitHub Stats)
 <div align="center">
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Porlager&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Porlager&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Porlager&layout=compact&theme=radical)
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Porlager&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Porlager&theme=radical" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Porlager&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 ---
 
