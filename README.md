@@ -96,7 +96,7 @@
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Porlager&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Porlager&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Porlager&theme=radical)
 </div>
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Porlager&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
