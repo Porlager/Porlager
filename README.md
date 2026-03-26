@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>🚀 นักศึกษาวิศวกรรมคอมพิวเตอร์ที่ชอบสร้างระบบให้ใช้งานได้จริง <br>เน้นงาน Full-Stack, Embedded, IoT, Automation และ AI-assisted development</h3>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Porlager&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
@@ -95,13 +95,13 @@
 
 ### 📊 สถิติบน GitHub (GitHub Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Porlager&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Porlager&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porlager&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
+
 ---
 
 ### 📫 ช่องทางการติดต่อ (Contact)
@@ -111,6 +111,9 @@
   </a>
   <a href="https://line.me/ti/p/~aonzaza67">
     <img src="https://img.shields.io/badge/Line-aonzaza67-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line" />
+  </a>
+  <a href="https://github.com/Porlager">
+    <img src="https://img.shields.io/badge/GitHub-Porlager-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
