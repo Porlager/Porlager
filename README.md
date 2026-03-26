@@ -1,22 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Apirak+Wisayakul;Full-Stack+Developer;Embedded+%26+IoT+Enthusiast;AI-Assisted+Developer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20👋&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
+
+<div align="center" style="margin-top: -20px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=I'm+Apirak+Wisayakul;Full-Stack+Developer;Embedded+%26+IoT+Enthusiast;AI-Assisted+Developer;Always+Building+Real+Things" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <h3>🚀 นักศึกษาวิศวกรรมคอมพิวเตอร์ที่ชอบสร้างระบบให้ใช้งานได้จริง <br>เน้นงาน Full-Stack, Embedded, IoT, Automation และ AI-assisted development</h3>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
 
 ### 👨‍💻 เกี่ยวกับผม (About Me)
 - 💡 ชอบงานที่ได้ **"ลงมือทำจริง"** มากกว่างานที่มีแค่ไอเดีย
-- 🔧 ถนัดพัฒนาระบบที่เชื่อม **Software** และ **Hardware** เข้าด้วยกัน (เช่น POS, Stock Management, IoT Devices, Mobile/Web App)
+- 🔧 ถนัดพัฒนาระบบที่เชื่อม **Software** และ **Hardware** เข้าด้วยกัน (เช่น POS, Stock Management, IoT Devices, Mobile App และ Web Application)
 - 🤖 สนใจการนำ **AI** มาช่วยอัปเกรดการทำงาน ทั้งการวางโครงสร้างระบบ, เร่งเขียนโค้ด, ทำ Automation และเชื่อมต่อ API ให้รันได้จริง
 
 ---
 
 ### 🎯 สิ่งที่กำลังโฟกัส (Current Focus)
-> `Full-Stack Web App` `Mobile App` `POS & Business Systems` `IoT / ESP32` `PCB Design` `Automation Workflow` `AI for Productivity`
+> `Full-Stack Web App` | `Mobile App` | `POS & Business Systems` | `IoT / ESP32` | `PCB Design` | `Automation Workflow` | `AI for Productivity`
 
 ---
 
@@ -61,7 +66,7 @@
 ### 📌 โปรเจกต์เด่น (Featured Projects)
 
 #### 💼 ใช้งานจริง / งานลูกค้า (Production & Freelance)
-| โปรเจกต์ | รายละเอียด |
+| 🚀 Project Name | 📝 Description |
 | :--- | :--- |
 | **🍲 POS ร้านชาบู** | ระบบขายหน้าร้านครบวงจร (แอป, เครื่องพิมพ์สลิป, ระบบแคชเชียร์, ลิ้นชักเก็บเงิน) |
 | **📦 Stock & Supply System** | ระบบจัดการสต๊อกและสั่งของสำหรับร้านชาบูหลายสาขา เชื่อมต่อ Makro และร้านค้า Local |
@@ -88,6 +93,17 @@
 
 ---
 
+### 📊 สถิติบน GitHub (GitHub Stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
 ### 📫 ช่องทางการติดต่อ (Contact)
 <div align="center">
   <a href="mailto:aonkonmek29@gmail.com">
@@ -96,4 +112,9 @@
   <a href="https://line.me/ti/p/~aonzaza67">
     <img src="https://img.shields.io/badge/Line-aonzaza67-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line" />
   </a>
+</div>
+
+<div align="center">
+  <br>
+  <p>⭐ <b>Thanks for dropping by! Let's build something awesome together.</b> ⭐</p>
 </div>
