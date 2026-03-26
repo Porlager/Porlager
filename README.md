@@ -93,10 +93,11 @@
 
 ---
 ### 📊 สถิติบน GitHub (GitHub Stats)
+<div align="center">
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Porlager&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Porlager&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Porlager&layout=compact&theme=radical)
-
+</div>
 ---
 
 ### 📫 ช่องทางการติดต่อ (Contact)
