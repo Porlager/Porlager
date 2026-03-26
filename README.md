@@ -1,126 +1,99 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20World!%20👋%20I'm%20Tharaksa%20Yasa&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Apirak+Wisayakul;Full-Stack+Developer;Embedded+%26+IoT+Enthusiast;AI-Assisted+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 นักศึกษาคณะวิศวกรรมคอมพิวเตอร์ ผู้หลงใหลในการสร้างระบบที่ใช้งานจริง <br>ครอบคลุมทั้ง Full-Stack, Embedded Systems, IoT, AI Automation และ System Design</h3>
+  <h3>🚀 นักศึกษาวิศวกรรมคอมพิวเตอร์ที่ชอบสร้างระบบให้ใช้งานได้จริง <br>เน้นงาน Full-Stack, Embedded, IoT, Automation และ AI-assisted development</h3>
 </div>
 
 ---
 
-### 👨‍💻 เกี่ยวกับฉัน (About Me)
-- 🎓 นักศึกษาชั้นปีที่ 3 คณะวิศวกรรมคอมพิวเตอร์
-- 💻 สนใจงานด้าน **Full-Stack Development, Embedded Systems, IoT, AI Agent** และ **Automation**
-- ⚙️ ชอบสร้างระบบที่ผสานระหว่างซอฟต์แวร์ ฮาร์ดแวร์ และกระบวนการทางธุรกิจเข้าด้วยกันเพื่อใช้งานจริง
-- 🧠 ถนัดการจัดการ Backend Logic, APIs, Databases และการเชื่อมต่อระบบต่างๆ (System Integration)
-- 🚀 รักที่จะเรียนรู้สิ่งใหม่ๆ ผ่านการลงมือทำโปรเจกต์จริงเสมอ
+### 👨‍💻 เกี่ยวกับผม (About Me)
+- 💡 ชอบงานที่ได้ **"ลงมือทำจริง"** มากกว่างานที่มีแค่ไอเดีย
+- 🔧 ถนัดพัฒนาระบบที่เชื่อม **Software** และ **Hardware** เข้าด้วยกัน (เช่น POS, Stock Management, IoT Devices, Mobile/Web App)
+- 🤖 สนใจการนำ **AI** มาช่วยอัปเกรดการทำงาน ทั้งการวางโครงสร้างระบบ, เร่งเขียนโค้ด, ทำ Automation และเชื่อมต่อ API ให้รันได้จริง
 
 ---
 
-### 🛠️ ทักษะความเชี่ยวชาญ (Tech Stack & Skills)
+### 🎯 สิ่งที่กำลังโฟกัส (Current Focus)
+> `Full-Stack Web App` `Mobile App` `POS & Business Systems` `IoT / ESP32` `PCB Design` `Automation Workflow` `AI for Productivity`
 
-#### 💻 ภาษาโปรแกรมมิ่ง (Programming & Development)
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
+---
 
-#### 🌐 เว็บและฟูลสแตก (Web & Full-Stack)
+### 🛠️ เครื่องมือและเทคโนโลยี (Tech Stack)
+
+#### 🖥️ Frontend & Mobile
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
-*✅ Authentication Systems & Database Integration*
 
-#### 🤖 ฮาร์ดแวร์และไอโอที (Embedded / IoT)
+#### ⚙️ Backend & Database
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+#### 🔌 Embedded, Low-level & Tools
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-*✅ Sensor Integration | Real-time Data Systems | Smart Home Systems | Hardware-Software Integration*
-
-#### 🧠 ปัญญาประดิษฐ์และระบบอัตโนมัติ (AI / Automation)
-<p>
-  <img src="https://img.shields.io/badge/AI_Agent_Workflow-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0078D4?style=for-the-badge" />
-</p>
-*✅ API Integration | Automation Systems | Tool-Calling Workflows | Human-in-the-loop Process Design*
-
-#### 🛡️ ทักษะอื่นๆ (Other Areas)
-*✅ Network Engineering | Cybersecurity | System Design | Technical Problem Solving*
 
 ---
 
 ### 📌 โปรเจกต์เด่น (Featured Projects)
-| 🍽️ Restaurant POS & Booking | 🎙️ AI Voice & Automation |
+
+#### 💼 ใช้งานจริง / งานลูกค้า (Production & Freelance)
+| โปรเจกต์ | รายละเอียด |
 | :--- | :--- |
-| ระบบจัดการร้านอาหารครบวงจร รองรับการจองโต๊ะของลูกค้า, โฟลว์การทำงานของแอดมิน และระบบจัดการออเดอร์ภายในร้าน มาพร้อมระบบแจ้งเตือนแอดมินและ Backend ที่รองรับการสเกล | ออกแบบ Workflow นำ AI มาเชื่อมต่อกับ API, เครื่องมือภายนอก และ Business Logic เพื่อประยุกต์ใช้งานในระบบ Automation จริง |
-| **🔌 IoT & Embedded Projects** | **🏢 Full-Stack Business Systems** |
-| สร้างโปรเจกต์สมาร์ทคอนโทรลด้วย ESP32 / Raspberry Pi ครอบคลุมการเก็บข้อมูล, ให้ฮาร์ดแวร์สื่อสารกัน และจำลองการทำ Automation ในโลกจริง | พัฒนาระบบที่ใช้ภายในองค์กร เช่น ระบบจัดการสต๊อกสินค้า, Admin Dashboards และแอปพลิเคชันจัดการ Workflow พร้อมฐานข้อมูลที่แข็งแกร่ง |
+| **🍲 POS ร้านชาบู** | ระบบขายหน้าร้านครบวงจร (แอป, เครื่องพิมพ์สลิป, ระบบแคชเชียร์, ลิ้นชักเก็บเงิน) |
+| **📦 Stock & Supply System** | ระบบจัดการสต๊อกและสั่งของสำหรับร้านชาบูหลายสาขา เชื่อมต่อ Makro และร้านค้า Local |
+| **☕ Mobile POS (Machanat Cafe)**| แอป POS บนมือถือ เชื่อมต่อเครื่องพิมพ์ใบเสร็จ ใช้งานจริงในร้านคาเฟ่ |
+| **💖 dolflint.com** | โปรเจกต์ Web/App แนว Matching Platform |
+| **🔮 catarot.love** | Web App ดูดวง ออกแบบให้ใช้งานง่ายและต่อยอดเชิงธุรกิจได้จริง |
+| **🌐 SEO Websites** | พัฒนาเว็บไซต์สนับสนุนงาน SEO (เช่น Karatmalee, Lineliff) |
+
+#### 🎓 โปรเจกต์มหาวิทยาลัย / วิศวกรรม (Engineering & Academic)
+- 🏎️ **รถตามเส้น (Line Tracking Robot)**
+- 🏥 **แอปโรงพยาบาลที่มี AI เป็นผู้ช่วย**
+- ⚡ **Smart Plug & PCB Design**
+- 🏫 **Web Clone MFU**
 
 ---
 
-### 🎯 สิ่งที่ชอบทำ & โฟกัสในตอนนี้ (Interests & Current Focus)
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>❤️ What I Like Building</b></td>
-      <td align="center"><b>🔥 Current Focus</b></td>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li>Full-stack web applications</li>
-          <li>Admin dashboards</li>
-          <li>Automation tools & AI-integrated workflows</li>
-          <li>Embedded systems & IoT</li>
-          <li>Practical software for real business use</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li><b>AI Agent & Automation Workflow</b></li>
-          <li>Embedded + AI Integration</li>
-          <li>Scalable Backend Systems</li>
-          <li>Production-oriented Development</li>
-          <li>Real-world project architecture</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🧠 แนวทางการทำงาน (Work Philosophy)
+ผมชอบพัฒนาระบบแบบ **ค่อยๆ วางโครง > สร้างของให้รันได้จริง > แล้วค่อยปรับให้ดีขึ้นทีละส่วน** ให้ความสำคัญกับการเชื่อมต่อระบบ (Integration), การนำไปใช้งานจริง (Practicality), ความเสถียร (Stability) และการแก้ปัญหาเฉพาะหน้า (Problem Solving)
 
 ---
 
-### 📊 สถิติบน GitHub (GitHub Stats)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+### 🚀 เป้าหมาย (Goals)
+กำลังพัฒนาตัวเองไปสู่การเป็น **Software Engineer / Full-Stack Developer / Embedded & IoT Developer** พร้อมเปิดรับเครื่องมือใหม่ๆ และมองหาโอกาสทำงานที่ได้ใช้ทั้ง "การคิดเชิงระบบ" และ "การลงมือทำจริง"
 
 ---
 
-### 📫 ช่องทางการติดต่อ (Contact Me)
+### 📫 ช่องทางการติดต่อ (Contact)
 <div align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:aonkonmek29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aonkonmek29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://line.me/ti/p/~aonzaza67">
+    <img src="https://img.shields.io/badge/Line-aonzaza67-00C300?style=for-the-badge&logo=line&logoColor=white" alt="Line" />
   </a>
-</div>
-
-<div align="center">
-  <br>
-  <p>⭐ <b>Thanks for visiting my profile</b> ⭐</p>
 </div>
